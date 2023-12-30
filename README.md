@@ -1,5 +1,5 @@
 # ShootEmAliens
-Just a practice game made by me.
+First game using pygame
 
 Assets:
 
